@@ -1,5 +1,6 @@
-# STT-Test
+# Speech-To-Test model for command recognition
 
+The model was trained using a CNN architure and trained on the dataset contained in this folder.
 
 The datasets contains single digit numbers in Bosnian language and has around 400 audio samples in wav format. The audio samples were collected either by directly recording or taking them from 
 audio books/ videos. All of the audio samples are 1 second long and shall any other samples be added they shouldn't be shorter than 1 second. The data can be used for testing purposes,
